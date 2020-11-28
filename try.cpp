@@ -6,7 +6,8 @@ using namespace std;
 
 
 int main(){
-    cout << "age" << endl;
+    cout << "gender" << endl;
+
     return 0;
 
 }
