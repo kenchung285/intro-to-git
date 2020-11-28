@@ -6,7 +6,7 @@ using namespace std;
 
 
 int main(){
-    cout << "@@@@@@@" << endl;
+    cout << "gender" << endl;
     return 0;
 
 }
